@@ -36,3 +36,6 @@ class Analysis():
 
     def myfunction():
         print('Hello World')
+
+    def myfunction2():
+        print('function2')
